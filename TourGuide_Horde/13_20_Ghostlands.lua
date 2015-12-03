@@ -1,4 +1,3 @@
-
 TourGuide:RegisterGuide("Ghostlands (13-20)", "The Barrens (20)", "Horde", function()
 return [[
 A Missing in the Ghostlands |R|Orc, Troll, Tauren, Undead| |N|From Magistrix Landra Dawnstrider in front of the Fairbreeze Village inn (44.00, 70.71)| |Z|Eversong Woods| |NODEBUG| |QID|9144|
@@ -12,6 +11,7 @@ R Tranquillien |N|Follow the road south|
 T Delivery to Tranquillien |T| |QID|9148|
 A The Forsaken |T| |QID|9329|
 T The Forsaken |T| |QID|9329|
+A Help Ranger Valanna! |T| |QID|9145|
 A Return to Arcanist Vandril |T| |QID|9758|
 T Return to Arcanist Vandril |T| |QID|9758|
 A Suncrown Village |T| |QID|9138|
@@ -24,6 +24,8 @@ A The Plagued Coast |T| |QID|9149|
 A Anok'suten |N|Take the road north, then east to Suncrown Village (57,14)| |QID|9315|
 C Suncrown Village |QID|9138|
 C Anok'suten |QID|9315|
+
+T Help Ranger Valanna! |T| |QID|9145|
 A Dealing with Zeb'Sora |N|To the east on the coast of Lake Elrendar (69,15)| |QID|9143|
 A Forgotten Rituals |N|On the island (72,19)| |QID|9157|
 
