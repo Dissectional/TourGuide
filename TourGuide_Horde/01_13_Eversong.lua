@@ -5,12 +5,32 @@ C Reclaiming Sunstrider Isle |QID|8325| |R|Blood Elf|
 T Reclaiming Sunstrider Isle |QID|8325| |R|Blood Elf|
 A Unfortunate Measures |QID|8326| |R|Blood Elf|
 
-A Warlock Training |C|Warlock| |QID|8563| |R|Blood Elf|
-T Warlock Training |C|Warlock| |QID|8563| |R|Blood Elf|
-A Windows to the Source |C|Warlock| |QID|8344| |R|Blood Elf|
+A Mage Training |QID|8328| |R|Blood Elf| |C|Mage|
+T Mage Training |QID|8328| |R|Blood Elf| |C|Mage|
+A Warlock Training |QID|8563| |R|Blood Elf| |C|Warlock|
+T Warlock Training |QID|8563| |R|Blood Elf| |C|Warlock|
+A Priest Training |QID|8564| |R|Blood Elf| |C|Priest|
+T Priest Training |QID|8564| |R|Blood Elf| |C|Priest|
+A Rogue Training |QID|9392| |R|Blood Elf| |C|Rogue|
+T Rogue Training |QID|9392| |R|Blood Elf| |C|Rogue|
+A Hunter Training |QID|9393| |R|Blood Elf| |C|Hunter|
+T Hunter Training |QID|9393| |R|Blood Elf| |C|Hunter|
+A Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin|
+T Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin|
 
-A Well Watcher Solanian |QID|10073| |R|Blood Elf|
-T Well Watcher Solanian |QID|10073| |R|Blood Elf|
+A Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage
+T Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage
+A Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin
+T Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin
+A Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter
+T Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter
+A Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue
+T Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue
+A Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest
+T Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest
+A Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock
+T Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock
+
 A The Shrine of Dath'Remar |QID|8345| |R|Blood Elf|
 A Solanian's Belongings |N|Don't forget to equip the bag he gives you| |QID|8330| |R|Blood Elf|
 A A Fistful of Slivers |QID|8336| |R|Blood Elf|
@@ -34,10 +54,8 @@ T The Shrine of Dath'Remar |QID|8345| |R|Blood Elf|
 T Solanian's Belongings |QID|8330| |R|Blood Elf|
 T Aggression |QID|8334| |R|Blood Elf|
 
-C Windows to the Source |C|Warlock| |QID|8344| |R|Blood Elf|
 A Felendren the Banished |QID|8335| |R|Blood Elf|
 C Felendren the Banished |QID|8335| |R|Blood Elf|
-T Windows to the Source |C|Warlock| |QID|8344| |R|Blood Elf|
 T Felendren the Banished |QID|8335| |R|Blood Elf|
 
 A Aiding the Outrunners |QID|8347| |R|Blood Elf|
@@ -70,8 +88,6 @@ A Darnassian Intrusions |QID|9352|
 
 T Delivery to the North Sanctum |QID|8895| |N|Head south through the gate, then west to the North Sanctum (44.69, 53.15)|
 A Malfunction at the West Sanctum |QID|9119|
-A Roadside Ambush |QID|9035| |N|Just to the south along the main road (45.23, 56.33)|
-
 T Malfunction at the West Sanctum |QID|9119| |N|Follow the road west to the West Sanctum (36.66, 57.55)|
 A Arcane Instability |QID|8486|
 C Arcane Instability |QID|8486|
@@ -80,7 +96,29 @@ A Incriminating Documents |QID|8482| |U|20765| |N|From the item the stinking elf
 T Darnassian Intrusions |QID|9352| |N|Back on the other side of West Sanctum (36.70, 57.48)|
 T Arcane Instability |QID|8486|
 
-A Fish Heads, Fish Heads... |QID|8884| |N|Follow the path west to the little camp (30.20, 58.35)|
+T Incriminating Documents |QID|8482| |N|Back at Falconwing Square (48.08, 46.05)|
+A The Dwarven Spy |QID|8483|
+C The Dwarven Spy |QID|8483| |N|Head back to North Sanctum (44.13, 53.40).  Talk to the dwarf, go inside, kick his beardy ass.|
+A Roadside Ambush |QID|9035| |N|Just to the south along the main road (45.23, 56.33)|
+T Roadside Ambush |QID|9035| |N|Follow the road north to the bridge (44.90, 61.03)|
+A Soaked Pages |QID|9062|
+C Soaked Pages |QID|9062| |N|In the water under the bridge|
+T Soaked Pages |QID|9062|
+A Taking the Fall |QID|9064|
+T Taking the Fall |QID|9064| |N|To the east at Stillwhisper Pond (55.66, 54.46)|
+
+A The Dead Scar |QID|8475| |N|East, at the far north end of the Dead Scar (50.26, 50.88)|
+C The Dead Scar |QID|8475|
+T The Dead Scar |QID|8475|
+
+A Swift Discipline |QID|9066|
+C Swift Discipline |N|North of Fairbreeze Village along the road.  Meledor (44,60) and Ralen (45,56)| |QID|9066|
+T Swift Discipline |QID|9066|
+
+T The Dwarven Spy |QID|8483| |N|Back at Falconwing Square (48.10, 46.06)|
+A Fairbreeze Village |QID|9256|
+
+A Fish Heads, Fish Heads... |QID|8884| |N|Follow the path south-west to the little camp (30.20, 58.35)|
 C Fish Heads, Fish Heads... |QID|8884| |N|Kill murlocs, ugh.|
 A Captain Kelisendra's Lost Rutters |QID|8887| |U|21776| |N|Keep thwacking murlocks till this drops.|
 T Fish Heads, Fish Heads... |QID|8884| |N|Back at the camp (30.16, 58.30)|
@@ -90,32 +128,11 @@ T Captain Kelisendra's Lost Rutters |QID|8887| |N|South of West Sanctum on the o
 A Grimscale Pirates! |QID|8886|
 A Lost Armaments |QID|8480|
 
-A Pelt Collection |QID|8491| |N|Follow the road east to Fairbreeze Village (44.68, 69.67)|
+A Pelt Collection |QID|8491| |N|Follow the road to Fairbreeze Village (44.68, 69.67)|
 A The Wayward Apprentice |QID|9254|
+T Fairbreeze Village |QID|9256|
 A Situation at Sunsail Anchorage |QID|8892|
 h Fairbreeze Village
-
-T Roadside Ambush |QID|9035| |N|Follow the road north to the bridge (44.90, 61.03)|
-A Soaked Pages |QID|9062|
-C Soaked Pages |QID|9062| |N|In the water under the bridge|
-T Soaked Pages |QID|9062|
-A Taking the Fall |QID|9064|
-
-T Incriminating Documents |QID|8482| |N|Back at Falconwing Square (48.08, 46.05)|
-A The Dwarven Spy |QID|8483|
-C The Dwarven Spy |QID|8483| |N|Head back to North Sanctum (44.13, 53.40).  Talk to the dorf, go inside, kick his beardy ass.|
-T The Dwarven Spy |QID|8483| |N|Back at Falconwing Square (48.10, 46.06)|
-
-A The Dead Scar |QID|8475| |N|East, at the far north end of the Dead Scar (50.26, 50.88)|
-C The Dead Scar |QID|8475|
-T The Dead Scar |QID|8475|
-
-T Taking the Fall |QID|9064| |N|To the east at Stillwhisper Pond (55.66, 54.46)|
-A Swift Discipline |QID|9066|
-
-A Amani Encroachment |QID|8476| |N|Follow the road east then south to the Farstrider Retreat (60.33, 62.72)|
-A The Spearcrafter's Hammer |QID|8477|
-A The Magister's Apprentice |QID|8888|
 
 T The Wayward Apprentice |QID|9254| |N|To the southwest at the East Sanctum (54.28, 70.98)|
 A Corrupted Soil |QID|8487|
@@ -161,10 +178,6 @@ C The Fallen Courier |QID|9147|
 T The Fallen Courier |QID|9147|
 A Delivery to Tranquillien |QID|9148|
 C Defending Fairbreeze Village |N|Southern half of the Dead Scar| |QID|9252|
-A Powering our Defenses |N|At the runestone (42,85)| |QID|8490|
-C Powering our Defenses |N|At the East runestone (55,84)| |QID|8490|
-C Swift Discipline |N|North of Fairbreeze Village along the road.  Meledor (44,60) and Ralen (45,56)| |QID|9066|
-T Swift Discipline |QID|9066|
 
 R Silvermoon City
 B [Suntouched Special Reserve] |N|Vinemaster Suntouched (80,58), for "The Party Never Ends"|
@@ -185,6 +198,9 @@ A Word from the Spire |QID|8890|
 R Farstrider Retreat
 T Word from the Spire |QID|8890|
 T Abandoned Investigations |QID|8891|
+A Amani Encroachment |QID|8476| |N|Follow the road east then south to the Farstrider Retreat (60.33, 62.72)|
+A The Spearcrafter's Hammer |QID|8477|
+A The Magister's Apprentice |QID|8888|
 C The Spearcrafter's Hammer |N|To the southeast (70,72)| |QID|8477|
 A Zul'Marosh |QID|8479|
 C Zul'Marosh |N|Across the lake, upstairs in the hut (62, 80)| |QID|8479|
@@ -202,12 +218,14 @@ H Fairbreeze Village
 T Warning Fairbreeze Village |QID|9363|
 B [Bundle of Fireworks] |N|From the General goods vendor, for "The Party Never Ends"|
 T Defending Fairbreeze Village |N|(47,72)| |QID|9252|
+A Powering our Defenses |N|At the runestone (42,85)| |QID|8490|
 
 T The Party Never Ends |N|The quest reward item, [Saltheril's Haven Party Invitation], just allows you to pick up the party goods on the tables at the party.| |QID|9067|
 T The Scorched Grove |N|(34,80)| |QID|9258|
 A A Somber Task |QID|8473|
 C A Somber Task |N|Make sure you kill Old Whitebark for his pendant| |QID|8473|
 A Old Whitebark's Pendant |N|Started by the item, of course| |QID|8474|
+C Powering our Defenses |N|At the East runestone (55,84)| |QID|8490|
 T A Somber Task |QID|8473|
 T Old Whitebark's Pendant |QID|8474|
 A Whitebark's Memory |QID|10166|
@@ -216,4 +234,3 @@ T Whitebark's Memory |QID|10166|
 T Powering our Defenses |QID|8490|
 ]]
 end)
-

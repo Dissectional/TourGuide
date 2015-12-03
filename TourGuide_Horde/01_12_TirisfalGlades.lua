@@ -3,11 +3,8 @@ return [[
 A Rude Awakening |N|The guy right outside of the starting crypt| |QID|363| |T|
 T Rude Awakening |N|Right down the hill| |QID|363| |T|
 A The Mindless Ones |QID|364| |T|
-A Piercing the Veil |C|Warlock| |QID|1470| |T|
 C The Mindless Ones |QID|364|
-C Piercing the Veil |C|Warlock| |QID|1470|
 T The Mindless Ones |QID|364| |T|
-T Piercing the Veil |C|Warlock| |QID|1470| |T|
 
 A Rattling the Rattlecages |QID|3901| |T|
 A The Damned |QID|376| |T|

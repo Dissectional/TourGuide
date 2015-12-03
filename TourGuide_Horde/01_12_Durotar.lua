@@ -14,15 +14,10 @@ T Etched Tablet |C|Hunter| |QID|3082|
 T Rune-Inscribed Tablet |C|Shaman| |QID|3084|
 T Rune-Inscribed Parchment |QID|3089| |C|Shaman| |R|Orc|
 
-A Vile Familiars (Part 1) |QID|1485| |C|Warlock| |R|Orc|
-A Vile Familiars |QID|792| |C|Warlock| |R|Undead, Blood Elf, Goblin|
-A Vile Familiars |QID|792| |C|Priest, Mage, Warrior, Druid, Paladin, Hunter, Shaman, Rogue, Death Knight|
+A Vile Familiars |QID|792| 
 A Galgar's Cactus Apple Surprise |QID|4402|
 
-C Vile Familiars (Part 1) |QID|1485| |C|Warlock| |R|Orc| |N|Kill familiars outside the cave at the north end of the valley.|
-C Vile Familiars |QID|792| |N|Kill familiars outside the cave at the north end of the valley.| |C|Warlock| |R|Undead, Blood Elf, Goblin|
-C Vile Familiars |QID|792| |N|Kill familiars outside the cave at the north end of the valley.| |C|Priest, Mage, Warrior, Druid, Paladin, Hunter, Shaman, Rogue, Death Knight|
-
+C Vile Familiars |QID|792| |N|Kill familiars outside the cave at the north end of the valley.|
 A Sarkoth (Part 1) |QID|790| |N|Western Valley of Trials, just north of the Den (40.64, 62.61)|
 C Sarkoth (Part 1) |QID|790| |N|South of the questgiver, up the hill (40.43, 67.03)|
 T Sarkoth (Part 1) |QID|790|
@@ -34,10 +29,7 @@ T Sarkoth (Part 2) |QID|804| |N|Back at the Den (42.13, 68.40).  You can jump do
 T Sting of the Scorpid |QID|789| |NORAF|
 T Galgar's Cactus Apple Surprise |QID|4402|
 A Call of Earth (Part 1) |C|Shaman| |QID|1516|
-T Vile Familiars (Part 1) |QID|1485| |C|Warlock| |R|Orc|
-A Vile Familiars (Part 2) |QID|1499| |C|Warlock| |R|Orc|
-T Vile Familiars |QID|792| |C|Warlock| |R|Undead, Blood Elf, Goblin|
-T Vile Familiars |QID|792| |C|Priest, Mage, Warrior, Druid, Paladin, Hunter, Shaman, Rogue, Death Knight|
+T Vile Familiars |QID|792|
 A Burning Blade Medallion |QID|794|
 A Lazy Peons |QID|5441|
 C Lazy Peons |QID|5441| |U|16114| |N|Run around and beat the sleeping peons.  If you head south west of the questgiver you can get most of them.|
