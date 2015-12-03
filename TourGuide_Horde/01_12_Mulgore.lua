@@ -32,7 +32,7 @@ A The Battleboars |QID|780|
 A Break Sharptusk! |QID|3376|
 
 C Break Sharptusk! |QID|3376| |N|East inside Brambleblade Ravine.  Follow the torches to the large hut, the chief is inside (64.35, 77.55).|
-A Attack on Camp Narache |QID|781| |U|4851| |N|South of the chief's hut, find the map on the floor of the cave (63.21, 82.75)|
+A Attack on Camp Narache |QID|24857| |U|4851| |N|South of the chief's hut, find the map on the floor of the cave (63.21, 82.75)|
 C Rite of Strength |QID|757| |N|Kill anthro boars for belts.|
 C The Battleboars |QID|780| |N|Kill any non-anthro boars for meat.|
 
@@ -40,21 +40,21 @@ T The Battleboars |QID|780| |U|6948| |N|Back at Camp Narache (44.88, 77.22).  He
 T Break Sharptusk! |QID|3376|
 T Rite of Strength |QID|757|
 A Rites of the Earthmother (Part 2) |QID|763|
-T Attack on Camp Narache |QID|781|
+T Attack on Camp Narache |QID|24857|
 
 A A Task Unfinished |QID|1656| |N|Follow the road out of town (38.51, 81.62).|
 
 T Rites of the Earthmother (Part 2) |QID|763| |N|Keep following the road to Bloodhoof Village (47.41, 60.16).|
-A Sharing the Land |QID|745|
+A Dangers of the Windfury |QID|743| |N|Ruul Eagletalon (47.35,62.02)|
+A Sharing the Land |QID|745| |N|Baine Bloodhoof (47.5,60.1)|
 A Rite of Vision (Part 1) |QID|767|
-A Poison Water |QID|748|
-A Swoop Hunting |QID|761|
+A Poison Water |QID|748| |N|Mull Thunderhorn (48.5,60.3)|
+A Swoop Hunting |QID|761| |N|Harken Windtotem (48.7,59.3)|
 T A Task Unfinished |QID|1656|
 h Bloodhoof Village
 T Rite of Vision (Part 1) |QID|767|
 A Rite of Vision (Part 2) |QID|771|
-A Mazzranache |QID|766|
-A Dangers of the Windfury |QID|743|
+A Mazzranache |QID|766| |N|Maur Raincaller (46.98,57.07)|
 A Kyle's Gone Missing! |QID|11129| |N|North of town, by the bridge (48.27, 53.30)|
 
 N Kill Swoops... |N|Kill any Swoops you come across for "Swoop Hunting".|

@@ -18,18 +18,18 @@ T Hunter Training |QID|9393| |R|Blood Elf| |C|Hunter|
 A Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin|
 T Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin|
 
-A Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage
-T Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage
-A Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin
-T Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin
-A Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter
-T Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter
-A Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue
-T Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue
-A Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest
-T Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest
-A Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock
-T Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock
+A Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage|
+T Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage|
+A Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin|
+T Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin|
+A Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter|
+T Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter|
+A Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue|
+T Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue|
+A Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest|
+T Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest|
+A Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock|
+T Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock|
 
 A The Shrine of Dath'Remar |QID|8345| |R|Blood Elf|
 A Solanian's Belongings |N|Don't forget to equip the bag he gives you| |QID|8330| |R|Blood Elf|
