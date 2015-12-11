@@ -1,35 +1,22 @@
 TourGuide:RegisterGuide("Eversong Woods (1-13)", "Ghostlands (13-20)", "Horde", function()
 return [[
-A Reclaiming Sunstrider Isle |QID|8325| |R|Blood Elf|
+A Reclaiming Sunstrider Isle |QID|8325| |R|Blood Elf| |N|Magistrix Erona (38.02,21.00)|
 C Reclaiming Sunstrider Isle |QID|8325| |R|Blood Elf|
 T Reclaiming Sunstrider Isle |QID|8325| |R|Blood Elf|
-A Unfortunate Measures |QID|8326| |R|Blood Elf|
+A Unfortunate Measures |QID|8326| |R|Blood Elf| |N|Magistrix Erona (38.02,21.00)|
 
-A Mage Training |QID|8328| |R|Blood Elf| |C|Mage|
+A Mage Training |QID|8328| |R|Blood Elf| |C|Mage| |N|Magistrix Erona (38.02,21.00)|
 T Mage Training |QID|8328| |R|Blood Elf| |C|Mage|
-A Warlock Training |QID|8563| |R|Blood Elf| |C|Warlock|
+A Warlock Training |QID|8563| |R|Blood Elf| |C|Warlock| |N|Magistrix Erona (38.02,21.00)|
 T Warlock Training |QID|8563| |R|Blood Elf| |C|Warlock|
-A Priest Training |QID|8564| |R|Blood Elf| |C|Priest|
+A Priest Training |QID|8564| |R|Blood Elf| |C|Priest| |N|Magistrix Erona (38.02,21.00)|
 T Priest Training |QID|8564| |R|Blood Elf| |C|Priest|
-A Rogue Training |QID|9392| |R|Blood Elf| |C|Rogue|
+A Rogue Training |QID|9392| |R|Blood Elf| |C|Rogue| |N|Magistrix Erona (38.02,21.00)|
 T Rogue Training |QID|9392| |R|Blood Elf| |C|Rogue|
-A Hunter Training |QID|9393| |R|Blood Elf| |C|Hunter|
+A Hunter Training |QID|9393| |R|Blood Elf| |C|Hunter| |N|Magistrix Erona (38.02,21.00)|
 T Hunter Training |QID|9393| |R|Blood Elf| |C|Hunter|
-A Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin|
+A Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin| |N|Magistrix Erona (38.02,21.00)|
 T Paladin Training |QID|9676| |R|Blood Elf| |C|Paladin|
-
-A Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage|
-T Well Watcher Solanian |QID|10068| |R|Blood Elf| |C|Mage|
-A Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin|
-T Well Watcher Solanian |QID|10069| |R|Blood Elf| |C|Paladin|
-A Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter|
-T Well Watcher Solanian |QID|10070| |R|Blood Elf| |C|Hunter|
-A Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue|
-T Well Watcher Solanian |QID|10071| |R|Blood Elf| |C|Rogue|
-A Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest|
-T Well Watcher Solanian |QID|10072| |R|Blood Elf| |C|Priest|
-A Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock|
-T Well Watcher Solanian |QID|10073| |R|Blood Elf| |C|Warlock|
 
 A The Shrine of Dath'Remar |QID|8345| |R|Blood Elf|
 A Solanian's Belongings |N|Don't forget to equip the bag he gives you| |QID|8330| |R|Blood Elf|
@@ -96,9 +83,18 @@ A Incriminating Documents |QID|8482| |U|20765| |N|From the item the stinking elf
 T Darnassian Intrusions |QID|9352| |N|Back on the other side of West Sanctum (36.70, 57.48)|
 T Arcane Instability |QID|8486|
 
+A Fish Heads, Fish Heads... |QID|8884| |N|Follow the path south-west to the little camp (30.20, 58.35)|
+C Fish Heads, Fish Heads... |QID|8884| |N|Kill murlocs, ugh.|
+A Captain Kelisendra's Lost Rutters |QID|8887| |U|21776| |N|Keep thwacking murlocks till this drops.|
+T Fish Heads, Fish Heads... |QID|8884| |N|Back at the camp (30.16, 58.30)|
+A The Ring of Mmmrrrggglll |QID|8885|
+
 T Incriminating Documents |QID|8482| |N|Back at Falconwing Square (48.08, 46.05)|
 A The Dwarven Spy |QID|8483|
 C The Dwarven Spy |QID|8483| |N|Head back to North Sanctum (44.13, 53.40).  Talk to the dwarf, go inside, kick his beardy ass.|
+T The Dwarven Spy |QID|8483| |N|Back at Falconwing Square (48.10, 46.06)|
+A Fairbreeze Village |QID|9256|
+
 A Roadside Ambush |QID|9035| |N|Just to the south along the main road (45.23, 56.33)|
 T Roadside Ambush |QID|9035| |N|Follow the road north to the bridge (44.90, 61.03)|
 A Soaked Pages |QID|9062|
@@ -106,33 +102,25 @@ C Soaked Pages |QID|9062| |N|In the water under the bridge|
 T Soaked Pages |QID|9062|
 A Taking the Fall |QID|9064|
 T Taking the Fall |QID|9064| |N|To the east at Stillwhisper Pond (55.66, 54.46)|
+A Swift Discipline |QID|9066|
 
 A The Dead Scar |QID|8475| |N|East, at the far north end of the Dead Scar (50.26, 50.88)|
-C The Dead Scar |QID|8475|
-T The Dead Scar |QID|8475|
 
-A Swift Discipline |QID|9066|
 C Swift Discipline |N|North of Fairbreeze Village along the road.  Meledor (44,60) and Ralen (45,56)| |QID|9066|
 T Swift Discipline |QID|9066|
 
-T The Dwarven Spy |QID|8483| |N|Back at Falconwing Square (48.10, 46.06)|
-A Fairbreeze Village |QID|9256|
-
-A Fish Heads, Fish Heads... |QID|8884| |N|Follow the path south-west to the little camp (30.20, 58.35)|
-C Fish Heads, Fish Heads... |QID|8884| |N|Kill murlocs, ugh.|
-A Captain Kelisendra's Lost Rutters |QID|8887| |U|21776| |N|Keep thwacking murlocks till this drops.|
-T Fish Heads, Fish Heads... |QID|8884| |N|Back at the camp (30.16, 58.30)|
-A The Ring of Mmmrrrggglll |QID|8885|
-
-T Captain Kelisendra's Lost Rutters |QID|8887| |N|South of West Sanctum on the other side of the creek (36.34, 66.66)|
-A Grimscale Pirates! |QID|8886|
-A Lost Armaments |QID|8480|
+C The Dead Scar |QID|8475|
+T The Dead Scar |QID|8475|
 
 A Pelt Collection |QID|8491| |N|Follow the road to Fairbreeze Village (44.68, 69.67)|
 A The Wayward Apprentice |QID|9254|
 T Fairbreeze Village |QID|9256|
 A Situation at Sunsail Anchorage |QID|8892|
 h Fairbreeze Village
+
+T Captain Kelisendra's Lost Rutters |QID|8887| |N|South of West Sanctum on the other side of the creek (36.34, 66.66)|
+A Grimscale Pirates! |QID|8886|
+A Lost Armaments |QID|8480|
 
 T The Wayward Apprentice |QID|9254| |N|To the southwest at the East Sanctum (54.28, 70.98)|
 A Corrupted Soil |QID|8487|
