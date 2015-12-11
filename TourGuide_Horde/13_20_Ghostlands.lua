@@ -102,8 +102,10 @@ T The Lady's Necklace |O| |T| |QID|9175|
 A Journey to Undercity |O| |PRE|The Lady's Necklace| |T| |QID|9180|
 T Windrunner Village |T| |QID|9140|
 A Deliver the Plans to An'telas |T| |QID|9166|
+A The Sanctum of the Sun |T| |QID|9151|
 
 R Sanctum of the Sun |N|To the southeast (55,48)|
+T The Sanctum of the Sun |QID|9151|
 T Underlight Ore Samples |QID|9207|
 A The Farstrider Enclave |QID|9282|
 
