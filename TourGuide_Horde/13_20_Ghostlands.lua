@@ -9,8 +9,10 @@ A Delivery to Tranquillien |R|Orc, Troll, Tauren, Undead| |NODEBUG| |QID|9148|
 
 R Tranquillien |N|Follow the road south|
 T Delivery to Tranquillien |T| |QID|9148|
-A The Forsaken |T| |QID|9329|
-T The Forsaken |T| |QID|9329|
+A The Forsaken |T| |QID|9327| |R|Blood Elf| |N|Arcanist Vandril (46.4,28.4)|
+T The Forsaken |T| |QID|9327| |R|Blood Elf|
+A The Forsaken |T| |QID|9329| |R|Orc, Troll, Tauren, Undead| |N|Arcanist Vandril (46.4,28.4)|
+T The Forsaken |T| |QID|9329| |R|Orc, Troll, Tauren, Undead|
 A Help Ranger Valanna! |T| |QID|9145|
 A Return to Arcanist Vandril |T| |QID|9758|
 T Return to Arcanist Vandril |T| |QID|9758|
