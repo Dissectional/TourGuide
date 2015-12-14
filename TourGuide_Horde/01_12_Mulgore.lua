@@ -117,14 +117,14 @@ C Taming the Beast (Part 3) |C|Hunter| |N|East of town| |QID|6088|
 T Taming the Beast (Part 3) |C|Hunter| |QID|6088|
 A Training the Beast |C|Hunter| |QID|6089|
 
-A Heeding the Call |QID|5928| |C|Druid| |N|From the druid trainer (48.51, 59.60)|
+A Heeding the Call |QID|5926| |C|Druid| |N|From the druid trainer (48.51, 59.60)|
 
 A The Hunter's Way |QID|861|
 
 A Preparation for Ceremony |QID|744| |N|Follow the road north to Thunder Bluff (37.54, 60.15)|
 T Training the Beast |C|Hunter| |N|Over on Hunter Rise (to the south)| |QID|6089|
 
-T Heeding the Call |QID|5928| |C|Druid| |N|Over on Elder Rise (76.38, 27.69)|
+T Heeding the Call |QID|5926| |C|Druid| |N|Over on Elder Rise (76.38, 27.69)|
 A Moonglade |QID|5922| |C|Druid|
 T Moonglade |QID|5922| |C|Druid| |N|Teleport to Moonglade, upstairs in the building you land by (56.28, 30.46)| |Z|Moonglade|
 A Great Bear Spirit |QID|5930| |C|Druid|
