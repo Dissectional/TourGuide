@@ -39,9 +39,9 @@ A Report to Lanthan Perilon |QID|8327|
 T Report to Lanthan Perilon |QID|8327|
 A Aggression |QID|8334|
 
-N Solanian's Journal |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (35.4, 22.5)| |QO|Solanian's Journal: 1/1|
-N Solanian's Scrying Orb |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (37.7,24.9)| |QO|Solanian's Scrying Orb: 1/1|
-N Scroll of Scourge Magic |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (31.4,22.8)| |QO|Scroll of Scourge Magic: 1/1|
+N Solanian's Journal |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (35.4, 22.5)| |QO|Solanian's Journal: 1/1|
+N Solanian's Scrying Orb |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (37.7,24.9)| |QO|Solanian's Scrying Orb: 1/1|
+N Scroll of Scourge Magic |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (31.4,22.8)| |QO|Scroll of Scourge Magic: 1/1|
 C The Shrine of Dath'Remar |QID|8345| |N|(28.9, 19.5)|
 C Aggression |QID|8334|
 
@@ -52,7 +52,7 @@ T Aggression |QID|8334|
 A Felendren the Banished |QID|8335|
 C Felendren the Banished |QID|8335| |N|At the top of the Falthrien Academy to the South-West (32.7, 25.6)|
 A Tainted Arcane Sliver |L|20483| |O| |QID|8338|
-H Use your Hearthstone
+H Hearth |QID|8335| |N|Time to turn in|
 T Felendren the Banished |QID|8335|
 
 T Tainted Arcane Sliver |O| |QID|8338|
@@ -66,7 +66,7 @@ T Package Recovery |QID|9705| |N|Back at Outrunner Alarion (40.46, 32.26)|
 A Completing the Delivery |QID|8350|
 
 T Completing the Delivery |QID|8350| |N|Run southeast to Falconwing Square (48.10, 47.71)|
-h Falconwing Square
+h Falconwing Square |QID|8468|
 A Wanted: Thaelis the Hungerer |QID|8468|
 A Unstable Mana Crystals |QID|8463|
 A Major Malfunction |QID|8472|
@@ -96,7 +96,7 @@ C Fish Heads, Fish Heads... |QID|8884| |N|Kill murlocs, ugh.|
 A Captain Kelisendra's Lost Rutters |QID|8887| |U|21776| |N|Keep thwacking murlocks till this drops.|
 T Fish Heads, Fish Heads... |QID|8884| |N|Back at the camp (30.16, 58.30)|
 A The Ring of Mmmrrrggglll |QID|8885|
-H Falconwing Square |N|Might have to walk :(|
+H Falconwing Square |QID|8482| |N|Might have to walk :(|
 
 T Incriminating Documents |QID|8482| |N|Back at Falconwing Square (48.08, 46.05)|
 A The Dwarven Spy |QID|8483|
@@ -112,8 +112,8 @@ T Taking the Fall |QID|9064| |N|To the east at Stillwhisper Pond (55.66, 54.46)|
 A Swift Discipline |QID|9066|
 A The Dead Scar |QID|8475| |N|East, at the far north end of the Dead Scar (50.26, 50.88)|
 
-N Swift Discipline |N|Discipline Ralen (45,56)| |QO|Apprentice Ralen Disciplined: 1/1|
-N Swift Discipline |N|Discipline Meledor (44,60)| |QO|Apprentice Meledor Disciplined: 1/1|
+N Swift Discipline |QID|9066| |N|Discipline Ralen (45,56)| |QO|Apprentice Ralen Disciplined: 1/1|
+N Swift Discipline |QID|9066| |N|Discipline Meledor (44,60)| |QO|Apprentice Meledor Disciplined: 1/1|
 C Swift Discipline |QID|9066|
 C The Dead Scar |QID|8475|
 T Swift Discipline |QID|9066|
@@ -125,9 +125,9 @@ A Pelt Collection |QID|8491| |N|Follow the road to Fairbreeze Village (44.68, 69
 A The Wayward Apprentice |QID|9254|
 T Fairbreeze Village |QID|9256|
 A Situation at Sunsail Anchorage |QID|8892|
-h Fairbreeze Village
+h Fairbreeze Village |QID|8886|
 
-N I CAN HAS PELTS? |N|Kill any cats you come across for "Pelt Collection"|
+N I CAN HAS PELTS? |QID|8491| |N|Kill any cats you come across for "Pelt Collection"|
 T Captain Kelisendra's Lost Rutters |QID|8887| |N|South of West Sanctum on the other side of the creek (36.34, 66.66)|
 A Grimscale Pirates! |QID|8886|
 A Lost Armaments |QID|8480|
@@ -167,7 +167,7 @@ C Unexpected Results |QID|8488|
 T Unexpected Results |QID|8488|
 A Research Notes |QID|9255|
 
-R Farstrider Retreat
+R Farstrider Retreat |QID|9359|
 T Farstrider Retreat |QID|9359|
 A Amani Encroachment |QID|8476| |N|Follow the road east then south to the Farstrider Retreat (60.33, 62.72)|
 A The Spearcrafter's Hammer |QID|8477|
@@ -185,11 +185,16 @@ A Word from the Spire |QID|8890|
 C Deactivating the Spire |N|Keep an eye out for Magister Duskwither's Journal on your way up.| |QID|8889|
 A Abandoned Investigations |QID|8891|
 
-R Silvermoon |N|Buy Suntouched Special Reserve from Vinemaster Suntouched in Silvermoon|
-N Suntouched Special Reserve |N| Buy Suntouched Special Reserve from Vinemaster Suntouched(79.5,58.5)|
+R Falconwing Square |QID|9677| |N|Noellene (48.4,46.4)|C|Paladin|
+A Summons from Knight-Lord Bloodvalor |QID|9677| |C|Paladin|
+C Summons from Knight-Lord Bloodvalor |QID|9677| |C|Paladin|
+A The First Trial |QID|9678| |C|Paladin|
 
-N Training?
+R Silvermoon |QID|9067| |N|Buy Suntouched Special Reserve from Vinemaster Suntouched in Silvermoon|
+B Suntouched Special Reserve |QID|9067| |N|Buy Suntouched Special Reserve from Vinemaster Suntouched (79.5,58.5)|
+
 N Class Quests? |N|Watch this space|
+N Training? |N|Watch this space|
 
 T Word from the Spire |QID|8890|
 T Abandoned Investigations |QID|8891|
@@ -201,13 +206,12 @@ T Zul'Marosh |QID|8479|
 C Amani Encroachment |QID|8476|
 
 T The Spearcrafter's Hammer |N|Back at Farstrider Retreat| |QID|8477|
-B [Springpaw Appetizers] |N|From Zalene Firstlight (60,63), for "The Party Never Ends"|
 T Amani Encroachment |QID|8476|
 A Amani Invasion |U|23249| |O| |QID|9360|
 T Amani Invasion |O| |QID|9360|
 A Warning Fairbreeze Village |QID|9363|
-N Springpaw Appetizers |N|Buy Springpaw Appetizers from Zalene Firstlight (60.4,62.5)|
-H Fairbreeze Village
+B Springpaw Appetizers |QID|9067| |N|Buy Springpaw Appetizers from Zalene Firstlight (60.4,62.5)|
+H Fairbreeze Village |QID|9363|
 
 T Warning Fairbreeze Village |QID|9363|
 T Research Notes |QID|9255| |N|Back at Fairbreeze Village (44.07, 70.70)|
@@ -216,7 +220,7 @@ A The Scorched Grove |QID|9258|
 A Powering our Defenses |N|At the runestone (42,85)| |QID|8490|
 T Defending Fairbreeze Village |N|(47,72)| |QID|9252|
 
-N Bundle of Fireworks |N|Buy Bundle of Fireworks from Halis Dawnstrider (44.0,70.3)|
+B Bundle of Fireworks |QID|9067| |N|Buy Bundle of Fireworks from Halis Dawnstrider (44.0,70.3)|
 
 T Saltheril's Haven |QID|9395| |N|Follow the road west (38.18, 73.51)|
 A The Party Never Ends |QID|9067|
