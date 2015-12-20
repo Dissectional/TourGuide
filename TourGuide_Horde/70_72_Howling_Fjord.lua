@@ -15,7 +15,8 @@ A Reports from the Field |QID|11221|
 T Let Them Eat Crow |QID|11227|
 A Sniff Out the Enemy |QID|11253|
 
-C Reports from the Field |QID|11221| |N|Head south to the Bleeding Vale, find Razael (77.53, 34.65) and Lyana (78.77, 36.90) for their reports.|
+N Reports from the Field |QID|11221| |N|Listen to Razael's Report (77.53, 34.65)| |QO|Listen to Razael's Report: 1/1|
+N Reports from the Field |QID|11221| |N|Listen to Lyana's Report (79.4, 37.6)| |QO|Listen to Lyana's Report: 1/1|
 
 T Reports from the Field |QID|11221| |N|Back at Vengeance Landing (78.54, 31.16)|
 A The Windrunner Fleet |QID|11229|

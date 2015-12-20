@@ -39,8 +39,8 @@ A Report to Lanthan Perilon |QID|8327|
 T Report to Lanthan Perilon |QID|8327|
 A Aggression |QID|8334|
 
-N Solanian's Journal |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (35.4, 22.5)| |QO|Solanian's Journal: 1/1|
-N Solanian's Scrying Orb |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (37.7,24.9)| |QO|Solanian's Scrying Orb: 1/1|
+N Solanian's Journal |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (37.7,24.9)| |QO|Solanian's Journal: 1/1|
+N Solanian's Scrying Orb |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (35.1,28.9)| |QO|Solanian's Scrying Orb: 1/1|
 N Scroll of Scourge Magic |QID|8330| |N|Kill Tenders and Feral Tenders while collecting Solanian's belongings (31.4,22.8)| |QO|Scroll of Scourge Magic: 1/1|
 C The Shrine of Dath'Remar |QID|8345| |N|(28.9, 19.5)|
 C Aggression |QID|8334|
@@ -185,13 +185,8 @@ A Word from the Spire |QID|8890|
 C Deactivating the Spire |N|Keep an eye out for Magister Duskwither's Journal on your way up.| |QID|8889|
 A Abandoned Investigations |QID|8891|
 
-R Falconwing Square |QID|9677| |N|Noellene (48.4,46.4)|C|Paladin|
-A Summons from Knight-Lord Bloodvalor |QID|9677| |C|Paladin|
-C Summons from Knight-Lord Bloodvalor |QID|9677| |C|Paladin|
-A The First Trial |QID|9678| |C|Paladin|
-
-R Silvermoon |QID|9067| |N|Buy Suntouched Special Reserve from Vinemaster Suntouched in Silvermoon|
-B Suntouched Special Reserve |QID|9067| |N|Buy Suntouched Special Reserve from Vinemaster Suntouched (79.5,58.5)|
+R Silvermoon City|QID|9067| |N|Buy Suntouched Special Reserve from Vinemaster Suntouched in Silvermoon|
+B Suntouched Special Reserve |L|22775| |N|Buy Suntouched Special Reserve from Vinemaster Suntouched (79.5,58.5)|
 
 N Class Quests? |N|Watch this space|
 N Training? |N|Watch this space|
@@ -210,17 +205,16 @@ T Amani Encroachment |QID|8476|
 A Amani Invasion |U|23249| |O| |QID|9360|
 T Amani Invasion |O| |QID|9360|
 A Warning Fairbreeze Village |QID|9363|
-B Springpaw Appetizers |QID|9067| |N|Buy Springpaw Appetizers from Zalene Firstlight (60.4,62.5)|
+B Springpaw Appetizers |QID|9067| |L|22776| |N|Buy Springpaw Appetizers from Zalene Firstlight (60.4,62.5)|
 H Fairbreeze Village |QID|9363|
 
 T Warning Fairbreeze Village |QID|9363|
 T Research Notes |QID|9255| |N|Back at Fairbreeze Village (44.07, 70.70)|
 A Saltheril's Haven |QID|9395| |N|Abandon "The Party Never Ends" if you have it|
 A The Scorched Grove |QID|9258|
-A Powering our Defenses |N|At the runestone (42,85)| |QID|8490|
 T Defending Fairbreeze Village |N|(47,72)| |QID|9252|
 
-B Bundle of Fireworks |QID|9067| |N|Buy Bundle of Fireworks from Halis Dawnstrider (44.0,70.3)|
+B Bundle of Fireworks |QID|9067| |L|22777| |N|Buy Bundle of Fireworks from Halis Dawnstrider (44.0,70.3)|
 
 T Saltheril's Haven |QID|9395| |N|Follow the road west (38.18, 73.51)|
 A The Party Never Ends |QID|9067|
@@ -230,6 +224,7 @@ T The Scorched Grove |N|(34,80)| |QID|9258|
 A A Somber Task |QID|8473|
 C A Somber Task |N|Make sure you kill Old Whitebark for his pendant| |QID|8473|
 A Old Whitebark's Pendant |N|Started by the item, of course| |QID|8474|
+A Powering our Defenses |N|At the runestone (42,85)| |QID|8490|
 C Powering our Defenses |N|At the East runestone (55,84)| |QID|8490|
 T A Somber Task |QID|8473|
 T Old Whitebark's Pendant |QID|8474|

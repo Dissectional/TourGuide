@@ -19,6 +19,10 @@ T Return to Arcanist Vandril |T| |QID|9758|
 A Suncrown Village |T| |QID|9138|
 A Tomber's Supplies |T| |QID|9152|
 A Goods from Silvermoon City |R|Blood Elf| |T| |QID|9130|
+R Falconwing Square |QID|9677| |N|Noellene (48.4,46.4)|C|Paladin|
+A Summons from Knight-Lord Bloodvalor |QID|9677| |C|Paladin|
+C Summons from Knight-Lord Bloodvalor |QID|9677| |C|Paladin|
+A The First Trial |QID|9678| |C|Paladin|
 T Goods from Silvermoon City |R|Blood Elf| |T| |QID|9130|
 h Tranquillien |T|
 A The Plagued Coast |T| |QID|9149|

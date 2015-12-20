@@ -52,11 +52,11 @@ A A Peon's Burden |QID|2161| |N|East out of the Valley of Trials (51.98, 68.27)|
 
 T Report to Sen'jin Village |QID|805| |N|Take the path southeast to Sen'jin Village (55.96, 74.67)|
 A Minshina's Skull |QID|808| |NORAF|
-A Thwarting Kolkar Aggression |QID|786| |NORAF|
-A Practical Prey |QID|817| |NORAF|
-A A Solvent Spirit |QID|818| |NORAF|
 A Zalazane |QID|826| |NORAF|
 A Report to Orgnil |QID|823|
+A A Solvent Spirit |QID|818| |NORAF|
+A Thwarting Kolkar Aggression |QID|786| |NORAF|
+A Practical Prey |QID|817| |NORAF|
 
 T Report to Orgnil |QID|823| |N|Follow the road north to Razor Hill (52.28, 43.18)| |T|
 A Dark Storms |QID|806| |T|
