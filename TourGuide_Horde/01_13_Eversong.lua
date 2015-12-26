@@ -54,9 +54,9 @@ C Felendren the Banished |QID|8335| |N|At the top of the Falthrien Academy to th
 A Tainted Arcane Sliver |L|20483| |O| |QID|8338|
 H Hearth |QID|8335| |N|Time to turn in|
 T Felendren the Banished |QID|8335|
+A Aiding the Outrunners |QID|8347|
 
 T Tainted Arcane Sliver |O| |QID|8338|
-A Aiding the Outrunners |QID|8347|
 
 T Aiding the Outrunners |QID|8347|
 A Slain by the Wretched |QID|9704| |N|On the border of Eversong and Sunstrider Isle (40.42, 32.18)|

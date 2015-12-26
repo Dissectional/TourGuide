@@ -62,17 +62,17 @@ C Sharing the Land |QID|745| |N|To the south by the cliffs (54,73).|
 C Poison Water |QID|748|
 
 T Poison Water |QID|748| |N|Back at Bloodhoof Village (48.51, 60.50)|
-A Winterhoof Cleansing |QID|754|
+A Winterhoof Cleansing |QID|754| |R|Tauren|
 T Sharing the Land |QID|745|
 A Dwarven Digging |QID|746|
 N Cook your ass off! |L|30816 40| |N|If you plan on leveling cooking (why wouldn't you?) buy the skill, 40x Simple Flour and 40x Mild Spices (about 3.5s total).  Cook up bread before you cook any meat that dropped.|
 C Kyle's Gone Missing! |QID|11129| |U|33009| |N|Find the dog running around the village and feed him the meat from the plainstrider.|
 
-C Winterhoof Cleansing |QID|754| |U|5411| |N|South of town at the well (53.55, 66.42).  Use the totem to cleanse it.|
+C Winterhoof Cleansing |QID|754| |U|5411| |N|South of town at the well (53.55, 66.42).  Use the totem to cleanse it.| |R|Tauren|
 C Rite of Vision (Part 2) |QID|771| |N|Grab the well stones at the well.  Acorns can be found under the trees all over.|
 
-T Winterhoof Cleansing |QID|754| |N|Back at Bloodhoof Village (48.50, 60.52)|
-A Thunderhorn Totem |QID|756|
+T Winterhoof Cleansing |QID|754| |N|Back at Bloodhoof Village (48.50, 60.52)| |R|Tauren|
+A Thunderhorn Totem |QID|756| |R|Tauren|
 T Rite of Vision (Part 2) |QID|771|
 A Rite of Vision (Part 3) |QID|772|
 U Drink up! |U|4823|
@@ -81,14 +81,14 @@ T Rite of Vision (Part 3) |QID|772| |N|Follow the vision, or just run to the cav
 A Rite of Wisdom |QID|773|
 
 C Dwarven Digging |QID|746| |U|4702| |N|Head south to the Bael'dun Digsite and work your way back to the forge (31.37, 49.78).  By the time you're there you should have 5 picks to break.  Use them at the forge.|
-C Thunderhorn Totem |QID|756| |N|All over the plains south of Thunder Bluff.|
+C Thunderhorn Totem |QID|756| |N|All over the plains south of Thunder Bluff.| |R|Tauren|
 
 T Dwarven Digging |QID|746| |N|Back at Bloodhoof Village (47.47, 60.22)|
-T Thunderhorn Totem |QID|756|
-A Thunderhorn Cleansing |QID|758|
-C Thunderhorn Cleansing |QID|758| |U|5415| |N|North of town at the Thunderhorn Water Well (44.53, 45.69).  You know the drill, use the totem.|
-T Thunderhorn Cleansing |QID|758| |N|Back at Bloodhoof Village (48.48, 60.39)|
-A Wildmane Totem |QID|759|
+T Thunderhorn Totem |QID|756| |R|Tauren|
+A Thunderhorn Cleansing |QID|758| |R|Tauren|
+C Thunderhorn Cleansing |QID|758| |U|5415| |N|North of town at the Thunderhorn Water Well (44.53, 45.69).  You know the drill, use the totem.| |R|Tauren|
+T Thunderhorn Cleansing |QID|758| |N|Back at Bloodhoof Village (48.48, 60.39)| |R|Tauren|
+A Wildmane Totem |QID|759| |R|Tauren|
 
 A The Ravaged Caravan |QID|749| |N|Find Morin Cloudstalker patrolling along the road to the east.|
 T The Ravaged Caravan |QID|749| |N|On the north edge of the lake at the Ravaged Caravan (53.81, 48.29).|
@@ -98,10 +98,10 @@ A The Venture Co. |QID|764|
 A Supervisor Fizsprocket |QID|765|
 
 C Dangers of the Windfury |QID|743| |N|To the east, south of the road (64,70).|
-C Wildmane Totem |QID|759|
+C Wildmane Totem |QID|759| |R|Tauren|
 
-T Wildmane Totem |QID|759| |N|Back at Bloodhoof Village (48.43, 60.37)|
-A Wildmane Cleansing |QID|760|
+T Wildmane Totem |QID|759| |N|Back at Bloodhoof Village (48.43, 60.37)| |R|Tauren|
+A Wildmane Cleansing |QID|760| |R|Tauren|
 T Dangers of the Windfury |QID|743|
 
 A The Hunter's Path |C|Hunter| |QID|10530|
@@ -134,7 +134,7 @@ A Back to Thunder Bluff |QID|5932| |C|Druid|
 T Back to Thunder Bluff |QID|5932| |C|Druid| |N|Fly back to Thunder Bluff (76.15, 27.69)|
 A Body and Heart |QID|6002| |C|Druid|
 
-C Wildmane Cleansing |QID|760| |N|Find the well north of Bluff (42.61, 14.24), use the totem on it.  Don't worry about finishing "The Venture Co.", you'll be running into them again soon.|
+C Wildmane Cleansing |QID|760| |N|Find the well north of Bluff (42.61, 14.24), use the totem on it.  Don't worry about finishing "The Venture Co.", you'll be running into them again soon.| |R|Tauren|
 A A Sacred Burial |QID|833| |N|To the east near Red Rocks Amphitheatre (59.81, 25.52)|
 T Rite of Wisdom |QID|773| |N|Talk to the Ancestral Spirit at the center of the graveyard (61.42, 20.94).|
 A Journey into Thunder Bluff |QID|775|
@@ -153,7 +153,7 @@ C Rites of the Earthmother (Part 3) |QID|776| |N|Kill Arra'chea to the east of B
 C Swoop Hunting |QID|761|
 C Mazzranache |QID|766|
 
-T Wildmane Cleansing |QID|760| |N|Back at Bloodhoof Village (48.43, 60.35)|
+T Wildmane Cleansing |QID|760| |N|Back at Bloodhoof Village (48.43, 60.35)| |R|Tauren|
 A The Demon Scarred Cloak |QID|770| |O| |N|If you happened to kill Ghost Howl while you were out and about, accept this quest from the item he dropped.|
 T The Demon Scarred Cloak |QID|770| |O|
 T Mazzranache |QID|766|
