@@ -282,7 +282,8 @@ A The Cell |QID|11943|
 T Nuts for Berries |QID|11912|
 A Keep the Secret Safe |QID|11914|
 
-C The Cell |QID|11943| |N|Kill Warbringer Goredrak to the west (24.24, 28.92) for the core and General Cerulean to the north (27.54, 20.71) for the casing.|
+K The Cell |QID|11943| |N|Kill Warbringer Goredrak to the west (24.24,28.92)| |QO|Energy Core: 1/1|
+K The Cell |QID|11943| |N|Kill General Cerulean to the north (27.54,20.71)| |QO|Prison Casing: 1/1|
 C Hatching a Plan |QID|11936| |N|Kill Coldarra Wyrmkin for their axes, then use them on the eggs near the Nexus|
 C Keep the Secret Safe |QID|11914| |N|Kill Arcane Serpents near the Nexus|
 
@@ -319,7 +320,8 @@ A King Mrgl-Mrgl |QID|11702| |T|
 T The Sky Will Know |QID|11624|
 A Boiling Point |QID|11627|
 
-C Boiling Point |QID|11627| |N|Churn just south (45.92, 12.34) and Simmer is to the east of Churn (50.58, 14.89)|
+K Boiling Point |QID|11627| |N|Churn is to the south (45.92, 12.34)| |QO|Churn has submitted: 1/1|
+K Boiling Point |QID|11627| |N|Simmer is to the east of Churn (50.58, 14.89)| |QO|Simmer has submitted: 1/1|
 
 T Boiling Point |QID|11627| |N|Back at Ruins of Eldra'nath (46.62, 9.31)|
 A Motes of the Enraged |QID|11649|
