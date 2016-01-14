@@ -50,12 +50,12 @@ A Call of Earth (Part 3) |QID|1518| |C|Shaman|
 T Call of Earth (Part 3) |QID|1518| |C|Shaman|
 A A Peon's Burden |QID|2161| |N|East out of the Valley of Trials (51.98, 68.27)|
 
+A Thwarting Kolkar Aggression |QID|786| |NORAF|
 T Report to Sen'jin Village |QID|805| |N|Take the path southeast to Sen'jin Village (55.96, 74.67)|
 A Minshina's Skull |QID|808| |NORAF|
 A Zalazane |QID|826| |NORAF|
 A Report to Orgnil |QID|823|
 A A Solvent Spirit |QID|818| |NORAF|
-A Thwarting Kolkar Aggression |QID|786| |NORAF|
 A Practical Prey |QID|817| |NORAF|
 
 T Report to Orgnil |QID|823| |N|Follow the road north to Razor Hill (52.28, 43.18)| |T|
@@ -86,18 +86,20 @@ C Practical Prey |QID|817| |NORAF|
 C Thwarting Kolkar Aggression |N|West of Sen'jin at Kolkar Crag, each camp has an item to burn (49.84, 81.18), (46.22, 78.97), (47.68, 77.44).| |QID|786| |NORAF|
 C Carry Your Weight |QID|791| |N|Keep killing centaurs for the scraps.| |NORAF|
 
+T Thwarting Kolkar Aggression |QID|786| |NORAF|
 T Minshina's Skull |QID|808| |N|Back at Sen'jin Village (55.95, 74.82)| |NORAF|
 T Zalazane |QID|826| |NORAF|
 N Save quest reward |N|You'll need the "Faintly Glowing Skull" for later quest "Burning Shadows"| |NORAF|
 T Practical Prey |QID|817| |NORAF|
 T A Solvent Spirit |QID|818| |NORAF|
-T Thwarting Kolkar Aggression |QID|786| |NORAF|
 
 T From The Wreckage.... |QID|825| |N|Back at Razor Hill (51.90, 43.49).  Hearth if you can.| |T| |NODEBUG| |NORAF|
 T Break a Few Eggs |QID|815| |T| |NORAF|
 T Carry Your Weight |QID|791| |T| |NORAF|
 
 C Encroachment |N|To the west of Razor hill, in the camps on both sides of the road (47.60, 48.97) (43.80, 40.55)| |QID|837|
+
+A Lost But Not Forgotten |QID|816| |N|Northwest of Razor Hill at Tor'kren Farm (43.10, 30.30)| |NORAF|
 
 A Winds in the Desert |N|Follow the canyon north from Razor Hill (46.42, 22.94)| |QID|834| |NORAF|
 C Winds in the Desert |QID|834| |N|East, then south into Razorwind Canyon.| |NORAF|
@@ -106,7 +108,6 @@ A Securing the Lines |QID|835| |NORAF|
 C Securing the Lines |QID|835| |N|Head back down Razorwind Canyon to the cave at the south end.  Head through that, then back north up the Drygulch Ravine.| |NORAF|
 T Securing the Lines |QID|835| |N|Back at Rezlak (46.46, 22.92)| |NORAF|
 
-A Lost But Not Forgotten |QID|816| |N|Northwest of Razor Hill at Tor'kren Farm (43.10, 30.30)| |NORAF|
 A Need for a Cure |QID|812| |N|Troll north of the west zeplin tower (40.95, 16.34)| |NORAF|
 
 T The Admiral's Orders (Part 2) |QID|831| |N|Head to Orgrimmar, near Thrall in Grommash Hold (34.37, 36.64).| |T| |Z|Orgrimmar|
