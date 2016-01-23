@@ -164,17 +164,15 @@ C The Venture Co. |QID|764|
 T Supervisor Fizsprocket |QID|765| |N|Back at Morin Cloudstalker, patrolling along the road.|
 T The Venture Co. |QID|764|
 
-C Body and Heart |QID|6002| |C|Druid| |U|15710| |N|On the edge of the Barrens, just as you leave Mulgore, south of the road behind the hut (42.00, 60.89).  Use the dust, kill the boomkin, talk to him.| |Z|The Barrens|
-
 A Journey to the Crossroads |QID|854| |N|Follow the road east to Camp Taurajo (44.87, 58.65).| |R|Tauren| |Z|The Barrens|
-|N|Follow the road east to Camp Taurajo (44.87, 58.65).| |R|Orc,Troll,Blood Elf,Forsaken| |Z|The Barrens|
-
+C Body and Heart |QID|6002| |C|Druid| |U|15710| |N|On the edge of the Barrens, just as you leave Mulgore, south of the road behind the hut (42.00, 60.89).  Use the dust, kill the boomkin, talk to him.| |Z|The Barrens|
 T Journey to the Crossroads |QID|854| |N|Follow the road east out of town, north to the Crossroads (51.52, 30.83)| |R|Tauren| |Z|The Barrens|
 A A Bundle of Hides |QID|6361| |N|In the forge at the north edge of town (51.20, 29.11)| |R|Tauren| |Z|The Barrens|
 T A Bundle of Hides |QID|6361| |N|Talk to the flight master (51.51, 30.31)| |R|Tauren| |Z|The Barrens|
-A Ride to Thunder Bluff |QID|6362| |R|Tauren| 
-T Ride to Thunder Bluff |QID|6362| |N|Fly to Thunder Bluff.  Turnin is at the base of the windrider totem (45.61, 55.91)| |R|Tauren| 
-A Tal the Wind Rider Master |QID|6363| |R|Tauren| 
+A Ride to Thunder Bluff |QID|6362| |R|Tauren|
+T Ride to Thunder Bluff |QID|6362| |N|Fly to Thunder Bluff.  Turnin is at the base of the windrider totem (45.61, 55.91)| |R|Tauren|
+A Tal the Wind Rider Master |QID|6363| |R|Tauren|
+
 T Rites of the Earthmother (Part 3) |QID|776| 
 A The Barrens Oases |N|From the Archdruid on Elder Rise (78.61, 28.52)| |QID|886|
 T Body and Heart |QID|6002| |C|Druid|
